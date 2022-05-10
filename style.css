@@ -1,0 +1,38 @@
+#red {
+    Color:red;
+}
+#blue {
+    Color:blue;
+}
+#green {
+    Color:green;
+}
+.center {
+    text-align: center;
+}
+#bigFont {
+    font-size: 32px;
+}
+#tinyFont {
+    font-size: 4px;
+}
+#bold {
+    font-weight: bold;
+
+}
+#changeFont {
+    font-family:Arial, Helvetica, sans-serif;
+}
+#multi {
+    color:orange;
+    font-size: 32px;
+    font-weight: bolder;
+}
+.styledFont {
+    color:salmon;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+#styledImage {
+    border: solid 30px gray;
+}
